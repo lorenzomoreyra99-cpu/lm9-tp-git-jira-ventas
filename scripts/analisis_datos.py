@@ -42,3 +42,4 @@ def analizar_ventas():
 
 # Ejecutar función
 analizar_ventas()
+# Script revisado por Luis - QA y documentacion
